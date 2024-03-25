@@ -1,0 +1,91 @@
+﻿{"frames": {
+
+"CachedBmp_2705":
+{
+	"frame": {"x":1202,"y":0,"w":808,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":808,"h":325},
+	"sourceSize": {"w":808,"h":325}
+},
+"CachedBmp_2758":
+{
+	"frame": {"x":0,"y":669,"w":1248,"h":303},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1248,"h":303},
+	"sourceSize": {"w":1248,"h":303}
+},
+"CachedBmp_2766":
+{
+	"frame": {"x":0,"y":974,"w":1248,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1248,"h":261},
+	"sourceSize": {"w":1248,"h":261}
+},
+"CachedBmp_2801":
+{
+	"frame": {"x":0,"y":364,"w":1248,"h":303},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1248,"h":303},
+	"sourceSize": {"w":1248,"h":303}
+},
+"CachedBmp_2851":
+{
+	"frame": {"x":1347,"y":1291,"w":480,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":480},
+	"sourceSize": {"w":480,"h":480}
+},
+"CachedBmp_2854":
+{
+	"frame": {"x":865,"y":1291,"w":480,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":480},
+	"sourceSize": {"w":480,"h":480}
+},
+"CachedBmp_2857":
+{
+	"frame": {"x":1250,"y":809,"w":480,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":480},
+	"sourceSize": {"w":480,"h":480}
+},
+"CachedBmp_2860":
+{
+	"frame": {"x":1250,"y":327,"w":480,"h":480},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":480},
+	"sourceSize": {"w":480,"h":480}
+},
+"CachedBmp_2961":
+{
+	"frame": {"x":0,"y":0,"w":1200,"h":362},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1200,"h":362},
+	"sourceSize": {"w":1200,"h":362}
+},
+"CachedBmp_2966":
+{
+	"frame": {"x":0,"y":1237,"w":863,"h":374},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":863,"h":374},
+	"sourceSize": {"w":863,"h":374}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.1.329",
+	"image": "lakehouse.ai.v4_atlas_8.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

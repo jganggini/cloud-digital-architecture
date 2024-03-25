@@ -1,0 +1,35 @@
+{"frames": {
+
+"CachedBmp_2765":
+{
+	"frame": {"x":0,"y":1281,"w":1302,"h":423},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1302,"h":423},
+	"sourceSize": {"w":1302,"h":423}
+},
+"CachedBmp_2802":
+{
+	"frame": {"x":0,"y":0,"w":1442,"h":702},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1442,"h":702},
+	"sourceSize": {"w":1442,"h":702}
+},
+"CachedBmp_2972":
+{
+	"frame": {"x":0,"y":704,"w":1360,"h":575},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1360,"h":575},
+	"sourceSize": {"w":1360,"h":575}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "24.0.1.329",
+	"image": "lakehouse.ai.v4_atlas_6.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
